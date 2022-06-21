@@ -1,5 +1,5 @@
 # Page List
-- You can see here all pages, that was created.
+- You can see here all pages, that were created.
 
 | Page Name | Page Description| Author |
 | ------- | ------------------ | ------- |
