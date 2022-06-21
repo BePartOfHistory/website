@@ -1,3 +1,57 @@
-<title>Main page</title>
-<p>Work in progress...</p>
-<p>- DaneeSkripter</p>
+<!DOCTYPE html>
+<html>
+<Head>
+    <title>Be Part Of History</title>
+    <link rel="icon" type="image/png" href="https://raw.githubusercontent.com/BePartOfHistory/website/main/bpoh_logo.png">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap');
+        body {
+            background-color: #0c0032;
+        }
+        .title {
+            color: whitesmoke;
+            text-align: center;
+            padding-top: 23%;
+            font-family: 'Kdam Thmor Pro', sans-serif;
+            font-size: 36px;
+        }
+        .text {
+            color: whitesmoke;
+            text-align: center;
+            font-family: 'Kdam Thmor Pro', sans-serif;
+            font-size: 24px;
+        }
+        
+    input[type=submit] {
+    display: block;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid whitesmoke;
+    border-radius: 12px;
+    padding: 12px 36px;
+    font-size: 18px;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    cursor: pointer;
+    background-color: whitesmoke;
+    transition-duration: 0.4s;
+}
+
+input[type=submit]:hover {
+    background-color: black;
+    border: 2px solid black;
+    color: whitesmoke;
+}
+    </style>
+</Head>
+<body>
+    <h1 class="title">Be Part Of History.</h1>
+    <p class="text">Let's say something to history</p>
+    <form action="https://bepartofhistory.tk/pagelist" method="get">
+        <input type="submit" value="Page List">
+    </form>
+    <form action="https://github.com/BePartOfHistory/website" method="get">
+        <input type="submit" value="GitHub">
+    </form>
+</body>
+</html>
