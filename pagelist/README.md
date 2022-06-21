@@ -3,4 +3,4 @@
 
 | Page Name | Page Description| Author |
 | ------- | ------------------ | ------- |
-| [Example](../page/example.html)  | Example Page. | DaneeSkripter |
+| [Example](https://bepartofhistory.tk/page/example)  | Example Page. | DaneeSkripter |
