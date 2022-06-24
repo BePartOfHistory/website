@@ -5,4 +5,4 @@
 | ------- | ------------------ | ------- |
 | [DaneeSkripter](https://bepartofhistory.tk/page/daneeskripter) | Project founder | DaneeSkripter |
 | [Example](https://bepartofhistory.tk/page/example)  | Example Page. | DaneeSkripter |
-| [Wireddesign](https://bepartofhistory.tk/page/Wireddesign) | WiredDesign Page | Wired Design
+| [Wireddesign](https://bepartofhistory.tk/page/Wireddesign) | Wired Design Page | Wired Design
